@@ -1,0 +1,7 @@
+Blacklisted-Blocks:
+  - 'MELON_BLOCK'
+  - 'PUMPKIN'
+  - 'COCOA'
+  - 'NETHER_WART'
+  - 'SUGAR_CANE_BLOCK'
+  - 'CACTUS'
